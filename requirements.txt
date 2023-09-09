@@ -1,0 +1,6 @@
+pandas
+PIL
+streamlit
+plotly.express
+neuralprophet
+altair
