@@ -3,4 +3,4 @@ streamlit
 neuralprophet
 plotly
 altair
-PIL
+pillow
