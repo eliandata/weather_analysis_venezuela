@@ -1,6 +1,6 @@
-pandas
-PIL
+pandas as pd
 streamlit
-plotly.express
 neuralprophet
+plotly
 altair
+PIL
